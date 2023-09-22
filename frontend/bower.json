@@ -1,0 +1,20 @@
+{
+  "name": "docking-inspector-client",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ZEITIO/dockmaster-inspector",
+  "authors": [
+    "Patrick Detlefsen <patrick.detlefsen@gmail.com>"
+  ],
+  "license": "copyright",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pdfmake": "~0.1.20",
+    "bootstrap-datepicker": "^1.6.0"
+  }
+}

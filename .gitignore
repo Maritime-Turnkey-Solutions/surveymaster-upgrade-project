@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+*.swp
+npm-debug.log
+.idea
+daily_database_dump_developers
